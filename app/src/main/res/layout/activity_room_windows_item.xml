@@ -23,8 +23,6 @@
             android:layout_marginBottom="30dp"
             android:text="TextView"
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
-
-
     </androidx.cardview.widget.CardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
